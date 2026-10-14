@@ -1,0 +1,4 @@
+# Untuk menjalankan notebook di Python-Fundamental dan Python-Library
+ipykernel>=7.0
+numpy>=2.0
+matplotlib>=3.9

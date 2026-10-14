@@ -58,7 +58,7 @@ def view_settings(dictionary):
 
 test_settings = {
     'theme': 'dark',
-    'notifications': 'enebled',
+    'notifications': 'enabled',
     'volume': 'high'
 }
 

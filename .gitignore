@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hasil keluaran aplikasi
+Speech-to-text/hasil/
+
+# Sistem operasi / editor
+.DS_Store
+Thumbs.db
